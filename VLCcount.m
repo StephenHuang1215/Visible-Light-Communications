@@ -1,6 +1,6 @@
 clear
 
-pic = imread('VLC3.jpg') ;
+pic = imread('VLC3.jpg')hahaha ;
 gray_pic = zeros(size(pic,1),size(pic,2));
 
 for j=1:size(pic,1)
